@@ -89,4 +89,5 @@ int main() {
     std::cout << "DOWN:    0x" << add_float(a, b, DOWN) << '\n';
 
     return 0;
+
 }
